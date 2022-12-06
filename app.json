@@ -1,15 +1,13 @@
 {
-  "name": "Gho'\"><s>xxx</s>{{4*4}}st on Heroku",
+  "name": "Geditho'\"><s>xxx</s>{{4*4}}st on Heroku",
   "description": "Just a blo'\"><s>xxx</s>{{4*4}}gging platform",
   "logo": "https://cdn.rawgit.com/TryGhost/Ghost-Admin/61fe83dff375a145d5272a5382aa2c72bd994830/public/assets/img/large.png",
-  "repository": "javascript:alert(2)",
+  "repository": "https://ssssssss.com",
   "scripts": {
     "postdeploy": "bin/init-deployment"
   },
-  "success_url": "/ghost",
+  "success_url": "https://fffffffffff.com",
   "addons": [
-    "jawsdb",
-    "mailgun"
   ],
   "env": {
     "PUBLIC_URL": {
